@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+}
+.container{
+    border: 2px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 20%;
+    font-weight: 700;
+    background-color:rgb(223, 236, 236);
+}
+.container .box1{
+    border: 1px solid rgb(229, 139, 104);
+    margin-left:15%;
+    margin-right: 15%;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.box2 .btn{
+    width: 69%;
+    font-weight: bold;
+}
+.container .box3{
+    border: 1px solid rgb(130, 129, 128);
+    background-color: rgb(255, 255, 255);
+    margin-left:15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    height: 20px;
+}
